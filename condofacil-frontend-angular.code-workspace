@@ -1,0 +1,26 @@
+{
+	"folders": [
+		{
+			"path": "../condofacil-frontend-angular"
+		},
+		{
+			"path": "../condfacil-api"
+		},
+		{
+			"path": "../condofacil-api-gateway"
+		},
+		{
+			"path": "../condofacil-api-email"
+		},
+		{
+			"path": "../condofacil-api-invoice-generation"
+		},
+		{
+			"path": "../api-event-note-portable"
+		},
+		{
+			"path": "../frontend-event-note-portable"
+		}
+	],
+	"settings": {}
+}
